@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+
 
 
 - 📫 How to reach me **wajidshaik774@gmail.com**
@@ -32,7 +32,7 @@
     
 
 
-
+ 
 
 
 
